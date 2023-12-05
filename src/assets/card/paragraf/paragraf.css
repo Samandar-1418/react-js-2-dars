@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+h4 {
+    width: 680px;
+    color: var(--neutral-800, #170F49);
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: DM Sans;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: 46px; 
+
+}
+p {
+    width: 517px;
+height: 70px;
+flex-shrink: 0;
+color: #6F6C90;
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; 
+};
+
